@@ -25,9 +25,9 @@ See `background_extract.ipynb`
 
 ## Image Fill
 
-<img title="chair" alt="A picture of chair" src="https://github.com/mukulmehar/Gen-Edit/assets/54510198/b6593807-62fb-48f3-9e49-7e64b28f4e7a" width=400 height=400>
+<img title="chair" alt="A picture of chair" src="https://github.com/mukulmehar/Gen-Edit/assets/54510198/b6593807-62fb-48f3-9e49-7e64b28f4e7a" width=320 height=320>
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img title="chair" alt="A picture of chair" src="https://github.com/mukulmehar/Gen-Edit/assets/54510198/bb468c79-b463-4ff6-9ef7-3f6eada591ca" width=400 height=400>
+<img title="chair" alt="A picture of chair" src="https://github.com/mukulmehar/Gen-Edit/assets/54510198/bb468c79-b463-4ff6-9ef7-3f6eada591ca" width=320 height=320>
 
 See `image_fill.ipynb`
 
