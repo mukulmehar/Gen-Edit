@@ -12,10 +12,11 @@ pandas
 albumentations==0.5.2
 hydra-core==1.1.0
 torchmetrics<3.0
-pytorch-lightning==1.2.9
+# pytorch-lightning==1.2.9
 tabulate
 kornia==0.5.0
 webdataset
 packaging
 wldhx.yadisk-direct
 timm
+diffusers
